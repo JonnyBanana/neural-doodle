@@ -266,3 +266,13 @@ There are many online services that provide basic style transfer with neural net
 
 .. |Project Stars| image:: https://img.shields.io/github/stars/alexjc/neural-doodle.svg?style=flat
     :target: https://github.com/alexjc/neural-doodle/stargazers
+    
+    
+    
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
